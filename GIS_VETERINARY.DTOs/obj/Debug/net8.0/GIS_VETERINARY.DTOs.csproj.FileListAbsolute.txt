@@ -1,0 +1,11 @@
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\bin\Debug\net8.0\GIS_VETERINARY.DTOs.deps.json
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\bin\Debug\net8.0\GIS_VETERINARY.DTOs.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\bin\Debug\net8.0\GIS_VETERINARY.DTOs.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.AssemblyInfoInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.AssemblyInfo.cs
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.csproj.CoreCompileInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\refint\GIS_VETERINARY.DTOs.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\GIS_VETERINARY.DTOs.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.DTOs\obj\Debug\net8.0\ref\GIS_VETERINARY.DTOs.dll

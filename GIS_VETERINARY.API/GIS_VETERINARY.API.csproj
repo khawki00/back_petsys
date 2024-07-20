@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GIS_VETERINARY.Abstractions\GIS_VETERINARY.Abstractions.csproj" />
+    <ProjectReference Include="..\GIS_VETERINARY.Application\GIS_VETERINARY.Application.csproj" />
+    <ProjectReference Include="..\GIS_VETERINARY.DTOs\GIS_VETERINARY.DTOs.csproj" />
+    <ProjectReference Include="..\GIS_VETERINARY.Repository\GIS_VETERINARY.Repository.csproj" />
+    <ProjectReference Include="..\GIS_VETERINARY.Services\GIS_VETERINARY.Services.csproj" />
+  </ItemGroup>
+
+</Project>

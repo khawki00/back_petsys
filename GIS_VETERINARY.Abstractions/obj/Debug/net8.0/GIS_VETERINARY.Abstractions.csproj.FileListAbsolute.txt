@@ -1,0 +1,15 @@
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\bin\Debug\net8.0\GIS_VETERINARY.Abstractions.deps.json
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\bin\Debug\net8.0\GIS_VETERINARY.Abstractions.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\bin\Debug\net8.0\GIS_VETERINARY.Abstractions.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\bin\Debug\net8.0\GIS_VETERINARY.DTOs.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\bin\Debug\net8.0\GIS_VETERINARY.DTOs.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.csproj.AssemblyReference.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.AssemblyInfoInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.AssemblyInfo.cs
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.csproj.CoreCompileInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETE.56124C95.Up2Date
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\refint\GIS_VETERINARY.Abstractions.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\GIS_VETERINARY.Abstractions.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Abstractions\obj\Debug\net8.0\ref\GIS_VETERINARY.Abstractions.dll

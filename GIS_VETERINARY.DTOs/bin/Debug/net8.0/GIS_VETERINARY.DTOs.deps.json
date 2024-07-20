@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GIS_VETERINARY.DTOs/1.0.0": {
+        "runtime": {
+          "GIS_VETERINARY.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIS_VETERINARY.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

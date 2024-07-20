@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GIS_VETERINARY.API.props" />
+</Project>

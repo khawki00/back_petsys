@@ -1,0 +1,17 @@
+﻿
+
+using GIS_VETERINARY.DTOs.Auth;
+using GIS_VETERINARY.DTOs.Common;
+using GIS_VETERINARY.DTOs.User;
+
+namespace GIS_VETERINARY.Abstractions.IServices
+{
+    public interface IUserService
+    {
+        public Task<ResultDto<UserListResponseDTO>> GetAll();
+        public Task<ResultDto<int>> Create(UserCreateRequestDto request);
+
+        public Task<ResultDto<int>> Delete(DeleteDto request);
+        public Task<AuthResponseDto> Login(LoginRequestDto request);
+    }
+}

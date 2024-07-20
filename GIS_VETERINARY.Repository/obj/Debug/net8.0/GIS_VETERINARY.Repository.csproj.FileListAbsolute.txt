@@ -1,0 +1,17 @@
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.Repository.deps.json
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.Repository.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.Repository.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.Abstractions.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.DTOs.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.Abstractions.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\bin\Debug\net8.0\GIS_VETERINARY.DTOs.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.csproj.AssemblyReference.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.AssemblyInfoInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.AssemblyInfo.cs
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.csproj.CoreCompileInputs.cache
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETE.A7CFF718.Up2Date
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\refint\GIS_VETERINARY.Repository.dll
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\GIS_VETERINARY.Repository.pdb
+F:\Projects\NET React Projects\GIS_VETERINARY\GIS_VETERINARY.Repository\obj\Debug\net8.0\ref\GIS_VETERINARY.Repository.dll

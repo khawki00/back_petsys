@@ -1,0 +1,6 @@
+@GIS_VETERINARY.API_HostAddress = http://localhost:5019
+
+GET {{GIS_VETERINARY.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|solutionrelative:gis_veterinary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518D9610-163B-4634-8BB4-B380B5A9CA9E}|GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518D9610-163B-4634-8BB4-B380B5A9CA9E}|GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj|solutionrelative:gis_veterinary.repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A6F0DD-6C24-46EB-ABD3-E04B4FF340DB}|GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A6F0DD-6C24-46EB-ABD3-E04B4FF340DB}|GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj|solutionrelative:gis_veterinary.dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|solutionrelative:gis_veterinary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8A91AF-B2EA-4F10-A664-1B0D1E1ABBB1}|GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8A91AF-B2EA-4F10-A664-1B0D1E1ABBB1}|GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj|solutionrelative:gis_veterinary.services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1F40B8-CCAB-41C3-8B1F-5350DC0F267B}|GIS_VETERINARY.API\\GIS_VETERINARY.API.csproj|solutionrelative:gis_veterinary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649775F4-6E25-46FB-BFC5-B9010176268D}|GIS_VETERINARY.Application\\GIS_VETERINARY.Application.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.application\\user\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649775F4-6E25-46FB-BFC5-B9010176268D}|GIS_VETERINARY.Application\\GIS_VETERINARY.Application.csproj|solutionrelative:gis_veterinary.application\\user\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.abstractions\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|solutionrelative:gis_veterinary.abstractions\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.abstractions\\iapplication\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|solutionrelative:gis_veterinary.abstractions\\iapplication\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.abstractions\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF31D38-1892-4CC6-9640-285F6C337E32}|GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj|solutionrelative:gis_veterinary.abstractions\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A6F0DD-6C24-46EB-ABD3-E04B4FF340DB}|GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj|f:\\projects\\net react projects\\gis_veterinary\\gis_veterinary.dtos\\user\\userdetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A6F0DD-6C24-46EB-ABD3-E04B4FF340DB}|GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj|solutionrelative:gis_veterinary.dtos\\user\\userdetailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\Program.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.API\\Program.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\Program.cs",
+              "RelativeToolTip": "GIS_VETERINARY.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:28:53.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Services\\User\\UserService.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\User\\UserService.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Services\\User\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:38:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Abstractions\\IServices\\IUserService.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IServices\\IUserService.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Abstractions\\IServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:37:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDetailResponseDto.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\User\\UserDetailResponseDto.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.DTOs\\User\\UserDetailResponseDto.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\User\\UserDetailResponseDto.cs",
+              "RelativeToolTip": "GIS_VETERINARY.DTOs\\User\\UserDetailResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:56:21.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Repository\\User\\UserRepository.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\User\\UserRepository.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Repository\\User\\UserRepository.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwKQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:48:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Abstractions\\IRepository\\IUserRepository.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Abstractions\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:44:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.API\\appsettings.json",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\appsettings.json",
+              "RelativeToolTip": "GIS_VETERINARY.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T13:39:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "GIS_VETERINARY.DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:13:47.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Application\\User\\UserApplication.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Application\\User\\UserApplication.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Application\\User\\UserApplication.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Application\\User\\UserApplication.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:40:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.API\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GIS_VETERINARY.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:03:38.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserApplication.cs",
+              "DocumentMoniker": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IApplication\\IUserApplication.cs",
+              "RelativeDocumentMoniker": "GIS_VETERINARY.Abstractions\\IApplication\\IUserApplication.cs",
+              "ToolTip": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\IApplication\\IUserApplication.cs",
+              "RelativeToolTip": "GIS_VETERINARY.Abstractions\\IApplication\\IUserApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:16:19.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

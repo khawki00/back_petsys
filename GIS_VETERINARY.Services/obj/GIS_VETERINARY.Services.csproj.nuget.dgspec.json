@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj",
+        "projectName": "GIS_VETERINARY.Abstractions",
+        "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\khawk\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj": {
+                "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj",
+        "projectName": "GIS_VETERINARY.DTOs",
+        "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj",
+        "packagesPath": "C:\\Users\\khawk\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj",
+        "projectName": "GIS_VETERINARY.Repository",
+        "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj",
+        "packagesPath": "C:\\Users\\khawk\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj": {
+                "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj",
+        "projectName": "GIS_VETERINARY.Services",
+        "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\GIS_VETERINARY.Services.csproj",
+        "packagesPath": "C:\\Users\\khawk\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj": {
+                "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Abstractions\\GIS_VETERINARY.Abstractions.csproj"
+              },
+              "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj": {
+                "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.DTOs\\GIS_VETERINARY.DTOs.csproj"
+              },
+              "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj": {
+                "projectPath": "F:\\Projects\\NET React Projects\\GIS_VETERINARY\\GIS_VETERINARY.Repository\\GIS_VETERINARY.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
